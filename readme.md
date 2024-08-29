@@ -45,4 +45,3 @@ This project focuses on conducting an in-depth analysis of employee demographics
 - Records with negative ages (967 records which is 4% of total data) were excluded from the analysis. The ages considered were 18 years and above.
 - Records with term dates far into the future (1599 records) were not included in the analysis. Only term dates less than or equal to the current date were considered.
 
-**Author**: Shivani
