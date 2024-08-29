@@ -2,7 +2,7 @@
 
 This project focuses on conducting an in-depth analysis of employee demographics, tenure, and turnover within a corporate setting. The dataset comprises HR data spanning from the year 2000 to 2020, totaling over 22,000 rows. The data was meticulously cleaned using **MySQL**, and the insights were visualized using **Tableau**.
 
-![Dashboard 1](https://github.com/shivani9649/Employee-Data-Analysis-SQL-Tableau/assets/86295815/e377b6da-a8fc-408a-af37-367af250f589)
+![Dashboard 1]([https://github.com/shivani9649/Employee-Data-Analysis-SQL-Tableau/assets/86295815/e377b6da-a8fc-408a-af37-367af250f589](https://github.com/psp88/Employee-Data-Analysis/blob/main/Dashboard_1.png))
 
 ## Data Used
 
